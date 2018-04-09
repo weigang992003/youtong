@@ -564,6 +564,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #featured-services .box {
   padding: 30px 20px;
+  text-align: center;
 }
 
 #featured-services .box-bg {
@@ -621,6 +622,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #about .container {
   position: relative;
   z-index: 10;
+  text-align: center;
 }
 
 #about .about-col {
